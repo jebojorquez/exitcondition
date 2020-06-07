@@ -71,7 +71,7 @@ p {
 }
 
 .topContainer {
-  background: no-repeat url("images/header.png");
+  /* background: no-repeat url("images/header.png"); */
   background-color: #000000;
   position: relative;
   padding-top: 50px;
