@@ -22,6 +22,7 @@ h2 {
   font-weight: normal;
   padding-bottom: 50px;
   margin-bottom: 0;
+  margin-top: 0px;
 }
 
 h3 {
@@ -70,6 +71,7 @@ p {
 }
 
 .topContainer {
+  background: no-repeat url("images/header.png");
   background-color: #000000;
   position: relative;
   padding-top: 50px;
@@ -98,13 +100,13 @@ p {
 .miniloom {
   width: 50%;
   float: left;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .minrack {
   width: 50%;
   float: right;
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .contactme {
@@ -169,7 +171,3 @@ text-align: center;
   border-radius: 8px;
   text-decoration: none;
 }  */
-/****************************ID Selectors************************************/
-#mountain {
-  width: 25%;
-}
